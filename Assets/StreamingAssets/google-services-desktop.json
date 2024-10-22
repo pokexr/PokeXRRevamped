@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "355590166543",
+    "firebase_url": "https://poke-bbdae-default-rtdb.firebaseio.com",
+    "project_id": "poke-bbdae",
+    "storage_bucket": "poke-bbdae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355590166543:ios:c59946e46e18ca0c436b7a",
+        "android_client_info": {
+          "package_name": "com.simms.pokeAR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355590166543"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdzv4T9FmzZQm1NvbeTRtlMH3eulCKajM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
