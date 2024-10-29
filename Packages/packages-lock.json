@@ -291,14 +291,6 @@
       },
       "url": "https://packages.unity.com"
     },
-    "com.unity.xr-content.xr-sim-environments": {
-      "version": "file:C:/Users/Dani/Downloads/com.unity.xr-content.xr-sim-environments-2.1.0.tgz",
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {
-        "com.unity.xr.arfoundation": "6.0.0-pre.3"
-      }
-    },
     "com.unity.xr.arcore": {
       "version": "6.0.3",
       "depth": 0,
